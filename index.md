@@ -4,6 +4,11 @@ My first homepage for a carpentry workshop.
 # Description
 Website Description
 
+---
+layout: default
+author: aarnavkumar
+title: "My first homepage"
+---
 
 {{ site.description }}
 

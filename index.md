@@ -5,7 +5,7 @@ My first homepage for a carpentry workshop.
 Website Description
 
 
-{{ site.descriptions }}
+{{ site.description }}
 
 
 [About](about.md)

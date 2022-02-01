@@ -4,7 +4,7 @@ author: aarnavkumar
 title: "My first homepage"
 ---
 
-{% navigation.html %}
+{% include navigation.html %}
 
 # My Homepage
 My first homepage for a carpentry workshop.

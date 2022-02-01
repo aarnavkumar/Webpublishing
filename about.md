@@ -8,3 +8,5 @@ title: YAML Header
 
 contents
 [Index](index.md)
+
+{% include footer.html %}

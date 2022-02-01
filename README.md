@@ -34,7 +34,7 @@ Two returns.
 
 ## Heading
 
-<link> and ~~strikethrough~~
+<http://carpentries.org> and ~~strikethrough~~
 
 ### Heading
 

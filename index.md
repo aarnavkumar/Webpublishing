@@ -4,8 +4,6 @@ author: aarnavkumar
 title: "My first homepage"
 ---
 
-{% include navigation.html %}
-
 # My Homepage
 My first homepage for a carpentry workshop.
 

@@ -38,9 +38,7 @@ Two returns.
 
 ### Heading
 
-<ol>
-  <li>One</li>
-  <li>Two</li>
-  <li>Three</li>
-  <li>Four</li>
-</ol>
+- One
+- Two 
+- Three
+- Four
